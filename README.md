@@ -10,12 +10,3 @@ itself.
 All hashing methods come with a test suite which verifies their
 operation against itself as well as the output of other password
 hashing implementations to ensure compatibility with them.
-
-To install pwhash, use the `go get` command.
-
-    go get github.com/ncw/pwhash
-
-I hope you find this library to be useful and easy to use!
-
-**NB** this is a mirror of the original code at `antihe.ro/pwhash`
-which is no longer available.

@@ -16,7 +16,7 @@ import (
 	"fmt"
 	"strconv"
 
-	. "github.com/ncw/pwhash/common"
+	. "github.com/desertbit/pwhash/common"
 )
 
 const (

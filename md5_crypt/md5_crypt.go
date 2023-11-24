@@ -12,7 +12,7 @@ import (
 	"crypto/rand"
 	"fmt"
 
-	. "github.com/ncw/pwhash/common"
+	. "github.com/desertbit/pwhash/common"
 )
 
 const (
